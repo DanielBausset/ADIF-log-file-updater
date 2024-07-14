@@ -22,3 +22,10 @@ The script then finds all matching QSOs between log files 1 and 2, and updates t
 It also updates the TX power and operator name too, if needed.
 
 All updated QSOs are written to a new log file, and files 1 and 2 are left untouched.
+
+<br/>
+
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/DanielBausset/ADIF-log-file-updater/main/ADIF%20log%20file%20updated.png)
+
